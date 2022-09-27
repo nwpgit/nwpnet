@@ -113,9 +113,9 @@ HERO
 ================================================ */
 #hero {
     /* ↓ 省略形だとブラウザーによってうまく表示されない
-    background: var(--light-blue) url('../images/hero.png') no-repeat center / cover; */
+    background: var(--light-blue) url('../images/hero.webp') no-repeat center / cover; */
     background-color: var(--light-blue);
-    background-image: url('../images/hero.png');
+    background-image: url('../images/hero.webp');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
